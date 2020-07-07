@@ -1,0 +1,7 @@
+Dao\UsuarioBD.class
+com\mycompany\AU1\JAXRSConfiguration.class
+Dao\Capacidad.class
+com\mycompany\AU1\resources\JavaEE8Resource.class
+config\Conexion.class
+Dao\CapacidadBD.class
+Dao\Usuario.class
